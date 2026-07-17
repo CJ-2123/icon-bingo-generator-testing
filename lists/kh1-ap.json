@@ -2,65 +2,47 @@
   {
     "name": "Leon",
     "icon": "icons/kh1-ap/Leon.webp",
-    "apLocations": [
-      "Traverse Town 1st District Leon Gift"
-    ]
+    "apLocations": ["Traverse Town 1st District Leon Gift"]
   },
   {
     "name": "Guard Armor",
     "icon": "icons/kh1-ap/GuardArmor.webp",
-    "apLocations": [
-      "Traverse Town Defeat Guard Armor Dodge Roll Event"
-    ]
+    "apLocations": ["Traverse Town Defeat Guard Armor Dodge Roll Event"]
   },
   {
     "name": "Opposite Armor",
     "icon": "icons/kh1-ap/OppositeArmor.webp",
-    "apLocations": [
-      "Traverse Town Defeat Opposite Armor Aero Event"
-    ]
+    "apLocations": ["Traverse Town Defeat Opposite Armor Aero Event"]
   },
   {
     "name": "Trickmaster",
     "icon": "icons/kh1-ap/Trickmaster.webp",
-    "apLocations": [
-      "Wonderland Defeat Trickmaster Blizzard Event"
-    ]
+    "apLocations": ["Wonderland Defeat Trickmaster Blizzard Event"]
   },
   {
     "name": "Cloud",
     "icon": "icons/kh1-ap/Cloud.webp",
-    "apLocations": [
-      "Olympus Coliseum Cloud Sonic Blade Event"
-    ]
+    "apLocations": ["Olympus Coliseum Cloud Sonic Blade Event"]
   },
   {
     "name": "Cerberus",
     "icon": "icons/kh1-ap/Cerberus.webp",
-    "apLocations": [
-      "Olympus Coliseum Defeat Cerberus Inferno Band Event"
-    ]
+    "apLocations": ["Olympus Coliseum Defeat Cerberus Inferno Band Event"]
   },
   {
     "name": "Sabor",
     "icon": "icons/kh1-ap/Sabor.webp",
-    "apLocations": [
-      "Deep Jungle Defeat Sabor White Fang Event"
-    ]
+    "apLocations": ["Deep Jungle Defeat Sabor White Fang Event"]
   },
   {
     "name": "Clayton",
     "icon": "icons/kh1-ap/Clayton.webp",
-    "apLocations": [
-      "Deep Jungle Defeat Clayton Cure Event"
-    ]
+    "apLocations": ["Deep Jungle Defeat Clayton Cure Event"]
   },
   {
     "name": "Pot Centipede",
     "icon": "icons/kh1-ap/PotCentipede.webp",
-    "apLocations": [
-      "Agrabah Defeat Pot Centipede Ray of Light Event"
-    ]
+    "apLocations": ["Agrabah Defeat Pot Centipede Ray of Light Event"]
   },
   {
     "name": "Cave of Wonders Guardian",
@@ -69,120 +51,84 @@
   {
     "name": "Jafar",
     "icon": "icons/kh1-ap/Jafar.webp",
-    "apLocations": [
-      "Agrabah Defeat Jafar Blizzard Event"
-    ]
+    "apLocations": ["Agrabah Defeat Jafar Blizzard Event"]
   },
   {
     "name": "Parasite Cage 1",
     "icon": "icons/kh1-ap/ParasiteCage1.webp",
-    "apLocations": [
-      "Monstro Defeat Parasite Cage I Goofy Cheer Event"
-    ]
+    "apLocations": ["Monstro Defeat Parasite Cage I Goofy Cheer Event"]
   },
   {
     "name": "Parasite Cage 2",
     "icon": "icons/kh1-ap/ParasiteCage2.webp",
-    "apLocations": [
-      "Monstro Defeat Parasite Cage II Stop Event"
-    ]
+    "apLocations": ["Monstro Defeat Parasite Cage II Stop Event"]
   },
   {
     "name": "Lock, Shock, and Barrel",
     "icon": "icons/kh1-ap/LSB.webp",
-    "apLocations": [
-      "Halloween Town Defeat Oogie Boogie Holy Circlet Event"
-    ]
+    "apLocations": ["Halloween Town Defeat Oogie Boogie Holy Circlet Event"]
   },
   {
     "name": "Oogie",
     "icon": "icons/kh1-ap/Oogie.webp",
-    "apLocations": [
-      "Halloween Town Defeat Oogie Boogie Holy Circlet Event"
-    ]
+    "apLocations": ["Halloween Town Defeat Oogie Boogie Holy Circlet Event"]
   },
   {
     "name": "Glut",
     "icon": "icons/kh1-ap/Shark.webp",
-    "tags": [
-      "Atlantica"
-    ]
+    "tags": ["Atlantica"]
   },
   {
     "name": "Ursula",
     "icon": "icons/kh1-ap/Ursula.webp",
-    "tags": [
-      "Atlantica"
-    ],
-    "apLocations": [
-      "Atlantica Defeat Ursula I Mermaid Kick Event"
-    ]
+    "tags": ["Atlantica"],
+    "apLocations": ["Atlantica Defeat Ursula I Mermaid Kick Event"]
   },
   {
     "name": "Giant Ursula",
     "icon": "icons/kh1-ap/BigUrsula.webp",
-    "tags": [
-      "Atlantica"
-    ],
-    "apLocations": [
-      "Atlantica Defeat Ursula II Thunder Event"
-    ]
+    "tags": ["Atlantica"],
+    "apLocations": ["Atlantica Defeat Ursula II Thunder Event"]
   },
   {
     "name": "Anti-Sora",
     "icon": "icons/kh1-ap/AntiSora-v2.webp",
-    "apLocations": [
-      "Neverland Defeat Anti Sora Raven's Claw Event"
-    ]
+    "apLocations": ["Neverland Defeat Anti Sora Raven's Claw Event"]
   },
   {
     "name": "Captain Hook",
     "icon": "icons/kh1-ap/CaptainHook.webp",
-    "apLocations": [
-      "Neverland Defeat Captain Hook Ars Arcanum Event"
-    ]
+    "apLocations": ["Neverland Defeat Captain Hook Ars Arcanum Event"]
   },
   {
     "name": "Riku 1",
     "icon": "icons/kh1-ap/Riku1.webp",
-    "apLocations": [
-      "Hollow Bastion Defeat Riku I White Trinity Event"
-    ]
+    "apLocations": ["Hollow Bastion Defeat Riku I White Trinity Event"]
   },
   {
     "name": "Maleficent",
     "icon": "icons/kh1-ap/Maleficent.webp",
-    "apLocations": [
-      "Hollow Bastion Defeat Maleficent Donald Cheer Event"
-    ]
+    "apLocations": ["Hollow Bastion Defeat Maleficent Donald Cheer Event"]
   },
   {
     "name": "Dragon Maleficent",
     "icon": "icons/kh1-ap/DragonMal.webp",
-    "apLocations": [
-      "Hollow Bastion Defeat Dragon Maleficent Fireglow Event"
-    ]
+    "apLocations": ["Hollow Bastion Defeat Dragon Maleficent Fireglow Event"]
   },
   {
     "name": "Riku 2",
     "icon": "icons/kh1-ap/Riku2.webp",
-    "apLocations": [
-      "Hollow Bastion Defeat Riku II Ragnarok Event"
-    ]
+    "apLocations": ["Hollow Bastion Defeat Riku II Ragnarok Event"]
   },
   {
     "name": "Behemoth (Hollow Bastion)",
     "icon": "icons/kh1-ap/Behemoth.webp",
-    "apLocations": [
-      "Hollow Bastion Defeat Behemoth Omega Arts Event"
-    ]
+    "apLocations": ["Hollow Bastion Defeat Behemoth Omega Arts Event"]
   },
   {
     "name": "Chernabog",
     "icon": "icons/kh1-ap/Chernabog.webp",
-    "apLocations": [
-      "End of the World Defeat Chernabog Superglide Event"
-    ]
+    "apLocations": ["End of the World Defeat Chernabog Superglide Event"]
   },
   {
     "name": "Fire",
@@ -457,9 +403,7 @@
   {
     "name": "1 Torn Page",
     "icon": "icons/kh1-ap/TornPages1.webp",
-    "tags": [
-      "100 Acre Wood"
-    ],
+    "tags": ["100 Acre Wood"],
     "apItems": [
       {
         "name": "Torn Page",
@@ -470,9 +414,7 @@
   {
     "name": "2 Torn Pages",
     "icon": "icons/kh1-ap/TornPages2.webp",
-    "tags": [
-      "100 Acre Wood"
-    ],
+    "tags": ["100 Acre Wood"],
     "apItems": [
       {
         "name": "Torn Page",
@@ -483,9 +425,7 @@
   {
     "name": "3 Torn Pages",
     "icon": "icons/kh1-ap/TornPages3.webp",
-    "tags": [
-      "100 Acre Wood"
-    ],
+    "tags": ["100 Acre Wood"],
     "apItems": [
       {
         "name": "Torn Page",
@@ -496,9 +436,7 @@
   {
     "name": "4 Torn Pages",
     "icon": "icons/kh1-ap/TornPages4.webp",
-    "tags": [
-      "100 Acre Wood"
-    ],
+    "tags": ["100 Acre Wood"],
     "apItems": [
       {
         "name": "Torn Page",
@@ -509,9 +447,7 @@
   {
     "name": "5 Torn Pages",
     "icon": "icons/kh1-ap/TornPages5.webp",
-    "tags": [
-      "100 Acre Wood"
-    ],
+    "tags": ["100 Acre Wood"],
     "apItems": [
       {
         "name": "Torn Page",
@@ -582,9 +518,7 @@
   {
     "name": "Atlantica Item",
     "icon": "icons/kh1-ap/Atlantica.webp",
-    "tags": [
-      "Atlantica"
-    ],
+    "tags": ["Atlantica"],
     "apItems": [
       {
         "name": "Atlantica",
@@ -773,14 +707,12 @@
   {
     "name": "Crystal Trident",
     "icon": "icons/kh1-ap/CrystalTrident.webp",
-    "tags": [
-      "Atlantica"
-    ],
+    "tags": ["Atlantica"],
     "apAnyOf": [
       {
         "apItems": [
           {
-            "name": "Crystal Triden",
+            "name": "Crystal Trident",
             "count": 1
           }
         ]
@@ -1172,144 +1104,92 @@
   {
     "name": "10 Puppies",
     "icon": "icons/kh1-ap/Puppies10.webp",
-    "apLocations": [
-      "Traverse Town Piano Room Return 10 Puppies"
-    ]
+    "apLocations": ["Traverse Town Piano Room Return 10 Puppies"]
   },
   {
     "name": "20 Puppies",
     "icon": "icons/kh1-ap/Puppies20.webp",
-    "apLocations": [
-      "Traverse Town Piano Room Return 20 Puppies"
-    ]
+    "apLocations": ["Traverse Town Piano Room Return 20 Puppies"]
   },
   {
     "name": "30 Puppies",
     "icon": "icons/kh1-ap/Puppies30.webp",
-    "apLocations": [
-      "Traverse Town Piano Room Return 30 Puppies"
-    ]
+    "apLocations": ["Traverse Town Piano Room Return 30 Puppies"]
   },
   {
     "name": "40 Puppies",
     "icon": "icons/kh1-ap/Puppies40.webp",
-    "apLocations": [
-      "Traverse Town Piano Room Return 40 Puppies"
-    ]
+    "apLocations": ["Traverse Town Piano Room Return 40 Puppies"]
   },
   {
     "name": "50 Puppies",
     "icon": "icons/kh1-ap/Puppies50.webp",
-    "apLocations": [
-      "Traverse Town Piano Room Return 50 Puppies Reward 2"
-    ]
+    "apLocations": ["Traverse Town Piano Room Return 50 Puppies Reward 2"]
   },
   {
     "name": "60 Puppies",
     "icon": "icons/kh1-ap/Puppies60.webp",
-    "tags": [
-      ">50 Puppies"
-    ],
-    "apLocations": [
-      "Traverse Town Piano Room Return 60 Puppies"
-    ]
+    "tags": [">50 Puppies"],
+    "apLocations": ["Traverse Town Piano Room Return 60 Puppies"]
   },
   {
     "name": "70 Puppies",
     "icon": "icons/kh1-ap/Puppies70.webp",
-    "tags": [
-      ">50 Puppies"
-    ],
-    "apLocations": [
-      "Traverse Town Piano Room Return 70 Puppies"
-    ]
+    "tags": [">50 Puppies"],
+    "apLocations": ["Traverse Town Piano Room Return 70 Puppies"]
   },
   {
     "name": "80 Puppies",
     "icon": "icons/kh1-ap/Puppies80.webp",
-    "tags": [
-      ">50 Puppies"
-    ],
-    "apLocations": [
-      "Traverse Town Piano Room Return 80 Puppies"
-    ]
+    "tags": [">50 Puppies"],
+    "apLocations": ["Traverse Town Piano Room Return 80 Puppies"]
   },
   {
     "name": "90 Puppies",
     "icon": "icons/kh1-ap/Puppies90.webp",
-    "tags": [
-      ">50 Puppies"
-    ],
-    "apLocations": [
-      "Traverse Town Piano Room Return 90 Puppies"
-    ]
+    "tags": [">50 Puppies"],
+    "apLocations": ["Traverse Town Piano Room Return 90 Puppies"]
   },
   {
     "name": "99 Puppies",
     "icon": "icons/kh1-ap/Puppies99.webp",
-    "tags": [
-      ">50 Puppies"
-    ],
-    "apLocations": [
-      "Traverse Town Piano Room Return 99 Puppies Reward 1"
-    ]
+    "tags": [">50 Puppies"],
+    "apLocations": ["Traverse Town Piano Room Return 99 Puppies Reward 1"]
   },
   {
     "name": "Hades Cup 10th Seed",
     "icon": "icons/kh1-ap/HadesCup10.webp",
-    "tags": [
-      "Hades Cup"
-    ],
-    "apLocations": [
-      "Hades Cup Defeat Hades Event"
-    ]
+    "tags": ["Hades Cup"],
+    "apLocations": ["Hades Cup Defeat Hades Event"]
   },
   {
     "name": "Hades Cup 20th Seed",
     "icon": "icons/kh1-ap/HadesCup20.webp",
-    "tags": [
-      "Hades Cup"
-    ],
-    "apLocations": [
-      "Hades Cup Defeat Cloud and Leon Event"
-    ]
+    "tags": ["Hades Cup"],
+    "apLocations": ["Hades Cup Defeat Cloud and Leon Event"]
   },
   {
     "name": "Hades Cup 30th Seed",
     "icon": "icons/kh1-ap/HadesCup30.webp",
-    "tags": [
-      "Hades Cup"
-    ],
-    "apLocations": [
-      "Hades Cup Defeat Cerberus Event"
-    ]
+    "tags": ["Hades Cup"],
+    "apLocations": ["Hades Cup Defeat Cerberus Event"]
   },
   {
     "name": "Hades Cup 40th Seed",
     "icon": "icons/kh1-ap/HadesCupSeed40.webp",
-    "tags": [
-      "Hades Cup"
-    ],
-    "apLocations": [
-      "Hades Cup Defeat Behemoth Event"
-    ]
+    "tags": ["Hades Cup"],
+    "apLocations": ["Hades Cup Defeat Behemoth Event"]
   },
   {
     "name": "Hades Cup 44th Seed",
     "icon": "icons/kh1-ap/HadesCup44.webp",
-    "tags": [
-      "Hades Cup"
-    ],
-    "apLocations": [
-      "Hades Cup Defeat Yuffie Event"
-    ]
+    "tags": ["Hades Cup"],
+    "apLocations": ["Hades Cup Defeat Yuffie Event"]
   },
   {
     "name": "Hercules",
     "icon": "icons/kh1-ap/Hercules.webp",
-    "apLocations": [
-      "Complete Hercules Cup"
-    ]
+    "apLocations": ["Complete Hercules Cup"]
   },
   {
     "name": "Riku (Destiny Islands)",
@@ -1334,66 +1214,42 @@
   {
     "name": "Pooh's Hunny Hunt",
     "icon": "icons/kh1-ap/Piglet.webp",
-    "tags": [
-      "100 Acre Wood"
-    ],
-    "apLocations": [
-      "100 Acre Wood Convert Torn Page 1"
-    ]
+    "tags": ["100 Acre Wood"],
+    "apLocations": ["100 Acre Wood Convert Torn Page 1"]
   },
   {
     "name": "Block Tigger",
     "icon": "icons/kh1-ap/Rabbit.webp",
-    "tags": [
-      "100 Acre Wood"
-    ],
-    "apLocations": [
-      "100 Acre Wood Convert Torn Page 2"
-    ]
+    "tags": ["100 Acre Wood"],
+    "apLocations": ["100 Acre Wood Convert Torn Page 2"]
   },
   {
     "name": "Pooh's Swing",
     "icon": "icons/kh1-ap/Pooh.webp",
-    "tags": [
-      "100 Acre Wood"
-    ],
-    "apLocations": [
-      "100 Acre Wood Convert Torn Page 3"
-    ]
+    "tags": ["100 Acre Wood"],
+    "apLocations": ["100 Acre Wood Convert Torn Page 3"]
   },
   {
     "name": "Tigger's Giant Pot",
     "icon": "icons/kh1-ap/Tigger.webp",
-    "tags": [
-      "100 Acre Wood"
-    ],
-    "apLocations": [
-      "100 Acre Wood Convert Torn Page 4"
-    ]
+    "tags": ["100 Acre Wood"],
+    "apLocations": ["100 Acre Wood Convert Torn Page 4"]
   },
   {
     "name": "Pooh's Muddy Path",
     "icon": "icons/kh1-ap/Eeyore.webp",
-    "tags": [
-      "100 Acre Wood"
-    ],
-    "apLocations": [
-      "100 Acre Wood Convert Torn Page 5"
-    ]
+    "tags": ["100 Acre Wood"],
+    "apLocations": ["100 Acre Wood Convert Torn Page 5"]
   },
   {
     "name": "Phil's Training (Barrels)",
     "icon": "icons/kh1-ap/Phil.webp",
-    "apLocations": [
-      "Olympus Coliseum Clear Phil's Training Thunder Event"
-    ]
+    "apLocations": ["Olympus Coliseum Clear Phil's Training Thunder Event"]
   },
   {
     "name": "Final Rest",
     "icon": "icons/kh1-ap/FinalRest.webp",
-    "apLocations": [
-      "End of the World Final Rest Chest"
-    ]
+    "apLocations": ["End of the World Final Rest Chest"]
   },
   {
     "name": "Arch Behemoth (EOTW)",
@@ -1402,44 +1258,32 @@
   {
     "name": "Hades Cup 1st Seed",
     "icon": "icons/kh1-ap/HadesCupSeed1.webp",
-    "tags": [
-      "Hades Cup"
-    ]
+    "tags": ["Hades Cup"]
   },
   {
     "name": "Jungle Slider 10 Fruits",
     "icon": "icons/kh1-ap/Fruit10.webp",
-    "apLocations": [
-      "Deep Jungle Jungle Slider 10 Fruits"
-    ]
+    "apLocations": ["Deep Jungle Jungle Slider 10 Fruits"]
   },
   {
     "name": "Jungle Slider 20 Fruits",
     "icon": "icons/kh1-ap/Fruit20.webp",
-    "apLocations": [
-      "Deep Jungle Jungle Slider 20 Fruits"
-    ]
+    "apLocations": ["Deep Jungle Jungle Slider 20 Fruits"]
   },
   {
     "name": "Jungle Slider 30 Fruits",
     "icon": "icons/kh1-ap/Fruit30.webp",
-    "apLocations": [
-      "Deep Jungle Jungle Slider 30 Fruits"
-    ]
+    "apLocations": ["Deep Jungle Jungle Slider 30 Fruits"]
   },
   {
     "name": "Jungle Slider 40 Fruits",
     "icon": "icons/kh1-ap/Fruit40.webp",
-    "apLocations": [
-      "Deep Jungle Jungle Slider 40 Fruits"
-    ]
+    "apLocations": ["Deep Jungle Jungle Slider 40 Fruits"]
   },
   {
     "name": "Jungle Slider 50 Fruits",
     "icon": "icons/kh1-ap/Fruit50.webp",
-    "apLocations": [
-      "Deep Jungle Jungle Slider 50 Fruits"
-    ]
+    "apLocations": ["Deep Jungle Jungle Slider 50 Fruits"]
   },
   {
     "name": "4 Blue Trinities",
@@ -1768,51 +1612,31 @@
   {
     "name": "Ice Titan",
     "icon": "icons/kh1-ap/IceTitan.webp",
-    "tags": [
-      "Superboss"
-    ],
-    "apLocations": [
-      "Olympus Coliseum Defeat Ice Titan Diamond Dust Event"
-    ]
+    "tags": ["Superboss"],
+    "apLocations": ["Olympus Coliseum Defeat Ice Titan Diamond Dust Event"]
   },
   {
     "name": "Kurt Zisa",
     "icon": "icons/kh1-ap/KurtZisa.webp",
-    "tags": [
-      "Superboss"
-    ],
-    "apLocations": [
-      "Agrabah Defeat Kurt Zisa Zantetsuken Event"
-    ]
+    "tags": ["Superboss"],
+    "apLocations": ["Agrabah Defeat Kurt Zisa Zantetsuken Event"]
   },
   {
     "name": "Phantom",
     "icon": "icons/kh1-ap/Phantom.webp",
-    "tags": [
-      "Superboss"
-    ],
-    "apLocations": [
-      "Neverland Defeat Phantom Stop Event"
-    ]
+    "tags": ["Superboss"],
+    "apLocations": ["Neverland Defeat Phantom Stop Event"]
   },
   {
     "name": "Unknown",
     "icon": "icons/kh1-ap/Unknown.webp",
-    "tags": [
-      "Superboss"
-    ],
-    "apLocations": [
-      "Hollow Bastion Defeat Unknown EXP Necklace Event"
-    ]
+    "tags": ["Superboss"],
+    "apLocations": ["Hollow Bastion Defeat Unknown EXP Necklace Event"]
   },
   {
     "name": "Sephiroth",
     "icon": "icons/kh1-ap/Sephiroth.webp",
-    "tags": [
-      "Superboss"
-    ],
-    "apLocations": [
-      "Olympus Coliseum Defeat Sephiroth One-Winged Angel Event"
-    ]
+    "tags": ["Superboss"],
+    "apLocations": ["Olympus Coliseum Defeat Sephiroth One-Winged Angel Event"]
   }
 ]
